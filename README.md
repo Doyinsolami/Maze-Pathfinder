@@ -32,3 +32,4 @@ simple, fast, and reliable.
 pip install pygame
 python maze_lab.py
 ```
+<img width="726" height="464" alt="image" src="https://github.com/user-attachments/assets/ffb167b7-3af7-411a-8c00-79596aef8f05" />
